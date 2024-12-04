@@ -1,6 +1,6 @@
 # MultiSearch Engine
 
-Hosted Link => ()
+Hosted Link => (https://nikhilgoswami99.github.io/Search-Engine/)
 
 This project is a multi-search engine where users can input their queries and search across various platforms. It incorporates Google Custom Search API for web search, Wikipedia API for encyclopedic information, Gemini API for news, and Unsplash API for image search.
 
